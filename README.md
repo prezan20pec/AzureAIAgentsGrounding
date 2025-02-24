@@ -44,7 +44,7 @@ BING_CONNECTION_NAME=<your_bing_connection_name>
 ### 4️⃣ Run the Script
 Execute the script to retrieve real-time search results:
 ```bash
-python sample_agents_bing_grounding.py
+python bingsearchgrounding.py
 ```
 
 ### Example Queries
